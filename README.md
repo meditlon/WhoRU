@@ -1,7 +1,7 @@
 #WhoRU<br!
 A Collection of tools and service that respect privacy and security.
 ---
-[dino_rounded](https://user-images.githubusercontent.com/110831613/183435836-c2d07dd6-fc16-43d7-8ce5-f9efdf2fd56d.gif)
+[dino_rounded](https://user-images.githubusercontent.com/meditlon/WhoRU/blob/main/dino_rounded.gif)
 >
 ### **Web Browsers**
 
