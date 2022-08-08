@@ -1,8 +1,10 @@
 #WhoRU<br!
 A Collection of tools and service that respect privacy and security.
 ---
-[dino_rounded](https://user-images.githubusercontent.com/meditlon/WhoRU/blob/main/dino_rounded.gif)
->
+ <div><span class="frame"><img src="dino_rounded.gif"
+                                            alt=""
+                                            ></span>
+                                </div>
 ### **Web Browsers**
 
 These are our currently recommended desktop web browsers and configurations. In general, we recommend keeping extensions to a minimum; they have privileged access within your browser, require you to trust the developer, can make you [stand out](https://en.wikipedia.org/wiki/Device_fingerprint#Browser_fingerprint), and [weaken](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/0ei-UCHNm34/m/lDaXwQhzBAAJ) site isolation.
