@@ -12,11 +12,14 @@ A Collection of tools and service that respect privacy and security.
 These are our currently recommended desktop web browsers and configurations. In general, we recommend keeping extensions to a minimum; they have privileged access within your browser, require you to trust the developer, can make you [stand out](https://en.wikipedia.org/wiki/Device_fingerprint#Browser_fingerprint), and [weaken](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/0ei-UCHNm34/m/lDaXwQhzBAAJ) site isolation.
 
  - Desktop Browsers
-     - Desktop Browsers
+     - Mozilla Firefox
      - Tor Browser
+     - Libre Wolf
+     - Brave Browser
  - Mobile Browsers
-     - Mobile Browsers
+     - Bromite Browsers
      - Firefox
+     - Brave Browser
 ### Web Addons
 
 We generally do not recommend installing any extensions as they increase your attack surface. However, uBlock Origin or AdGuard may prove useful if you value content blocking functionality.
